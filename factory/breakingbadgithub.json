@@ -1,0 +1,9 @@
+{
+	"name": "breakingbadgithub",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "79104b67-4dff-48a6-bbf0-10db058b9e1a",
+		"tenantId": "5cd65c6d-126a-43e9-ac8c-461145dfa341"
+	}
+}
